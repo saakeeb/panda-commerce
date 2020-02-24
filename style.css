@@ -46,3 +46,15 @@ margin-bottom: 60px;
     background-color: white;
     border-radius: 15px;
 }
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
+}
+#contact-us button{
+    margin-top: 5px;
+}
+footer{
+    text-align: center;
+}
